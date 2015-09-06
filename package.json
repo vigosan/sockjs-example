@@ -1,0 +1,9 @@
+{
+  "name": "sockjs-example",
+  "version": "1.0.0",
+  "description": "SockJS-node Echo example",
+  "main": "index.html",
+  "dependencies": {
+    "sockjs": "^0.3.15"
+  }
+}
